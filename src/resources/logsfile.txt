@@ -1,0 +1,16 @@
+Hello world, here is some nonsense
+World
+IGNORE THIS INFO: IGNORE
+bla bal ERROR 3: some message
+a message of some sorts ERROR 2: some message
+Ignore this ERROR
+bla bla ERROR 1: some other message
+something something INFO 1: some message
+bla bal ERROR 2: some message
+bla bal ERROR 2: some message
+something else something INFO 2: data
+bla bal ERROR 2: some message
+something else something INFO 1: some other message
+bla bal ERROR 2: some message
+bla bla ERROR 1: some other message
+something else something INFO 1: some message
